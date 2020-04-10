@@ -20,8 +20,7 @@ export class Collection<T, K> {
       this.models = response.data.map((value: K) => {
         return this.deserialize(value);
       });
+      this.trigger('change');
     });
-
-    this.trigger('change');
   }
 }

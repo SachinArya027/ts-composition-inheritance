@@ -8,6 +8,21 @@
       "name": "Tikaram",
       "age": 50,
       "id": 2
+    },
+    {
+      "name": "Harding",
+      "age": 60,
+      "id": 3
+    },
+    {
+      "name": "Tazu",
+      "age": 37,
+      "id": 4
+    },
+    {
+      "name": "Tarzan",
+      "age": 37,
+      "id": 5
     }
   ]
 }
